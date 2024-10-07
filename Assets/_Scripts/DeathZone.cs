@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class DeathZone : MonoBehaviour
 {
+    public int pNumber;
+
     void OnTriggerEnter(Collider other)
     {
         //Debug.Log("Death zone triggered!");
@@ -18,7 +20,7 @@ public class DeathZone : MonoBehaviour
 
             //new ball
             GameObject obj = GameObject.Find("GameManager");
-            obj.GetComponent<GameManager>().CreateNewBall();
+            obj.GetComponent<GameManager>().IncrementScore(pNumber);
         }
         
     }
