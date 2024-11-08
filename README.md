@@ -31,8 +31,8 @@
 3. **Any assets used that you didn't create yourself?** <br> (art, music, etc. Just tell us where you got it, link it here)
 
 Robot Crush font https://www.dafont.com/robot-crush.font
-boing sound effect https://freesound.org/people/el_boss/sounds/751699/ 
-
+boing sound effect https://freesound.org/people/qubodup/sounds/172660/
+Explosion https://freesound.org/people/deleted_user_13668154/sounds/616309/
 <br>
 
 4. **Did you receive help from anyone outside this class?** <br> (list their names and what they helped with)
